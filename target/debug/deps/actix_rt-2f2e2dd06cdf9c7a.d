@@ -1,0 +1,8 @@
+/Users/farhanpro/Documents/Programing/bootcamp-onxp/actix/target/debug/deps/libactix_rt-2f2e2dd06cdf9c7a.rmeta: /Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/lib.rs /Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/arbiter.rs /Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/runtime.rs /Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/system.rs
+
+/Users/farhanpro/Documents/Programing/bootcamp-onxp/actix/target/debug/deps/actix_rt-2f2e2dd06cdf9c7a.d: /Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/lib.rs /Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/arbiter.rs /Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/runtime.rs /Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/system.rs
+
+/Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/lib.rs:
+/Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/arbiter.rs:
+/Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/runtime.rs:
+/Users/farhanpro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.9.0/src/system.rs:
